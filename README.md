@@ -29,12 +29,12 @@ The dataset consisted of numerous columns as Country.Region	Province.State	time	
 Here we drop off the columns which doesnt fit our motive and have least effect on calculating precipitation.
 Thus we remove X, Country.Region, Province.State, time, summary, icon, precipType as they are characters with numerous values as well they have least affect on precipitation.
 
-Further we scale the data using cube root scaling to make it ready to fit on the models
+Further, we scale the data using cube root scaling to make it ready to fit on the models
 
 ## Machine Learning Models
 
-#### Multiple Linear Regression
-#### K- Nearest Neighbor
+##### Multiple Linear Regression
+##### K- Nearest Neighbor
 
 ## Evaluation
 
