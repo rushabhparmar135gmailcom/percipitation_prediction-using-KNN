@@ -33,8 +33,19 @@ Further we scale the data using cube root scaling to make it ready to fit on the
 
 ## Machine Learning Models
 
-### Mutilple Linear Regression
-### K- Nearest Neighbor
+#### Multiple Linear Regression
+#### K- Nearest Neighbor
+
+## Evaluation
+
+We evaluate both models based on the following parameters
+
+MLR results - 
+R-squared:  0.9361423 MSE:  0.0004723808 MAE:  0.01584654  RMSE:  0.02173432
+
+KNN results - 
+R-squared: 0.4313803	MSE: 6.704781e-05	MAE: 0.008190637	RMSE: 0.003512344
+
 
 
 
